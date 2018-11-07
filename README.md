@@ -1,2 +1,2 @@
-<b>more information soon</b>
+<b>more information soon</b></br>
 <b>AppGYM</b>
