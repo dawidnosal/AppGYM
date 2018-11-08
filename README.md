@@ -8,7 +8,7 @@ The project uses: <br>
 project concept: <br>
 1) The client comes to the fitness club <br>
 2) The customer brings his unique card to the reader <br>
-3) Pracownick has an insight into whether the client has an active membership <br>
+3) The employee has an insight into whether the client has an active membership <br>
 
 The employee has the option of: <br>
 - add a new customer and assign a unique card to it <br>
