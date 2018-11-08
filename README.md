@@ -5,7 +5,7 @@ The project uses: <br>
 - RFID NFC ACR122 reader <br>
 - card NFC Mifare 1K <br>
 
-project concept: <br>
+Project concept: <br>
 1) The client comes to the fitness club <br>
 2) The customer brings his unique card to the reader <br>
 3) The employee has an insight into whether the client has an active membership <br>
